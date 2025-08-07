@@ -1,4 +1,10 @@
 {
+  "shard_info": {
+    "name": "articles_1_300.json",
+    "version": "2025-01-07T16:00:00Z",
+    "range": [1, 300],
+    "count": 6
+  },
   "articles": [
     {
       "id": 1,
