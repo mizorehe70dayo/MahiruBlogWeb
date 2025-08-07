@@ -3,7 +3,7 @@
     {
       "title": "testt",
       "excerpt": "testt",
-      "content": "testt",
+      "content": "ttttttttttttttttttttttttt",
       "content_file": "testt-1754577986567.md",
       "cover_image_url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=400&h=300&fit=crop",
       "slug": "testt",
@@ -12,13 +12,13 @@
         10,
         7
       ],
-      "status": "deleted",
+      "status": "draft",
       "visibility": "private",
       "word_count": 1,
       "reading_time": 1,
       "published_at": "2025-08-07T14:46:26.567Z",
       "created_at": "2025-08-07T14:46:26.567Z",
-      "updated_at": "2025-08-07T15:07:01.093Z",
+      "updated_at": "2025-08-07T15:08:41.919Z",
       "id": 3,
       "deleted_reason": "用户删除",
       "deleted_at": "2025-08-07T15:07:01.086Z"
