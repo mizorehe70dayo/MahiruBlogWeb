@@ -14,14 +14,14 @@
   "shards": {
     "articles_1_300.json": "2025-01-07T16:00:00Z"
   },
-  "last_update": "2025-08-07T16:46:01.454Z",
+  "last_update": "2025-08-07T16:49:05.855Z",
   "tables": {
     "articles": {
-      "last_updated": "2025-08-07T16:46:01.454Z",
-      "record_count": 8
+      "last_updated": "2025-08-07T16:49:05.855Z",
+      "record_count": 9
     },
     "tags": {
-      "last_updated": "2025-08-07T16:46:01.454Z",
+      "last_updated": "2025-08-07T16:49:05.855Z",
       "record_count": 11
     }
   }
