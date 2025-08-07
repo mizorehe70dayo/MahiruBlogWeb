@@ -1,0 +1,59 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "春天的第一杯咖啡",
+      "excerpt": "今天在咖啡店里品尝了一杯手冲咖啡，那香醇的味道让我想起了春天的温暖...",
+      "cover": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop",
+      "date": "2024-03-15",
+      "tags": ["生活", "咖啡"],
+      "filename": "coffee-spring.md",
+      "author": "MAHIRU",
+      "readTime": "3分钟"
+    },
+    {
+      "id": 2,
+      "title": "关于阅读的思考",
+      "excerpt": "最近读了几本好书，感觉阅读真的能让人的心境变得平和，思维也变得更加清晰...",
+      "cover": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop",
+      "date": "2024-03-12",
+      "tags": ["阅读", "思考"],
+      "filename": "reading-thoughts.md",
+      "author": "MAHIRU",
+      "readTime": "5分钟"
+    },
+    {
+      "id": 3,
+      "title": "周末的小确幸",
+      "excerpt": "周末的阳光透过窗户洒在桌子上，我坐在那里写字，感受着这份宁静与美好...",
+      "cover": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+      "date": "2024-03-10",
+      "tags": ["周末", "阳光"],
+      "filename": "weekend-happiness.md",
+      "author": "MAHIRU",
+      "readTime": "4分钟"
+    },
+    {
+      "id": 4,
+      "title": "学习新技能的感悟",
+      "excerpt": "最近在学习一门新的编程语言，虽然过程有些艰难，但每次突破都让我很有成就感...",
+      "cover": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&h=300&fit=crop",
+      "date": "2024-03-08",
+      "tags": ["学习", "编程"],
+      "filename": "learning-skills.md",
+      "author": "MAHIRU",
+      "readTime": "6分钟"
+    }
+  ],
+  "config": {
+    "blogTitle": "MAHIRU的笔记",
+    "blogSubtitle": "记录生活中的美好瞬间",
+    "author": "MAHIRU",
+    "description": "一个记录生活点滴的个人博客",
+    "avatar": "/images/avatar.jpg",
+    "socialLinks": {
+      "github": "https://github.com/yourusername",
+      "email": "your@email.com"
+    }
+  }
+} 
