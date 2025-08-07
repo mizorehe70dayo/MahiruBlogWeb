@@ -1,7 +1,6 @@
 {
   "version": "2025-01-07T16:00:00Z",
   "last_updated": "2025-01-07T16:00:00Z",
-  
   "stats": {
     "total_articles": 1,
     "published_articles": 1,
@@ -10,11 +9,16 @@
     "total_categories": 5,
     "total_tags": 11
   },
-  
   "categories_version": "2025-01-07T16:00:00Z",
   "tags_version": "2025-08-07T11:52:13.827Z",
-  
   "shards": {
     "articles_1_300.json": "2025-01-07T16:00:00Z"
+  },
+  "last_update": "2025-08-07T14:46:29.369Z",
+  "tables": {
+    "articles": {
+      "last_updated": "2025-08-07T14:46:29.369Z",
+      "record_count": 3
+    }
   }
 }
