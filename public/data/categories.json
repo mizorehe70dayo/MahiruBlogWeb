@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "测试",
+      "description": "测试相关的文章",
+      "created_at": "2025-08-07T00:00:00Z",
+      "updated_at": "2025-08-07T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "生活",
+      "description": "记录生活中的点点滴滴",
+      "created_at": "2024-03-10T00:00:00Z",
+      "updated_at": "2024-03-15T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "思考",
+      "description": "思考和感悟类文章",
+      "created_at": "2024-03-12T00:00:00Z",
+      "updated_at": "2024-03-12T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "学习",
+      "description": "学习经验和技能分享",
+      "created_at": "2024-03-08T00:00:00Z",
+      "updated_at": "2024-03-08T00:00:00Z"
+    }
+  ]
+} 
