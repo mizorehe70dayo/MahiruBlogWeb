@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-08T07:53:55.073Z",
+  "last_updated": "2025-08-08T07:53:56.976Z",
   "stats": {
     "total_articles": 2,
     "published_articles": 1,
@@ -12,21 +12,22 @@
   },
   "tables": {
     "articles": {
-      "last_updated": "2025-08-08T07:53:15.688Z",
+      "last_updated": "2025-08-08T07:53:56.976Z",
       "record_count": 2
     },
     "categories": {
-      "last_updated": "2025-08-08T07:53:55.073Z",
+      "last_updated": "2025-08-08T07:53:56.976Z",
       "record_count": 1
     },
     "tags": {
-      "last_updated": "2025-08-08T07:53:52.707Z",
+      "last_updated": "2025-08-08T07:53:56.976Z",
       "record_count": 2
     }
   },
+  "last_update": "2025-08-08T07:51:55.155Z",
   "shards": {
     "articles_1_300.json": {
-      "last_updated": "2025-08-08T07:51:17.242Z"
+      "last_updated": "2025-08-08T07:53:56.976Z"
     }
   }
 }
