@@ -1,0 +1,21 @@
+{
+  "tags": [
+    {
+      "name": "t2",
+      "article_count": 0,
+      "created_at": "2025-08-08T06:21:05.813Z",
+      "updated_at": "2025-08-08T06:21:05.813Z",
+      "id": 2,
+      "color": "hsl(30, 75%, 55%)"
+    },
+    {
+      "name": "t1",
+      "article_count": 0,
+      "created_at": "2025-08-08T06:21:02.344Z",
+      "updated_at": "2025-08-08T06:21:02.344Z",
+      "id": 1,
+      "color": "hsl(0, 75%, 55%)"
+    }
+  ],
+  "last_updated": "2025-08-08T06:23:02.269Z"
+}
