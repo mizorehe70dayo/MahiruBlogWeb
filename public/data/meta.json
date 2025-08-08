@@ -12,16 +12,16 @@
   },
   "tables": {
     "articles": {
-      "last_updated": "2025-08-08T07:51:55.155Z",
+      "last_updated": "2025-08-08T07:52:43.189Z",
       "record_count": 2
     },
     "categories": {
       "last_updated": "2025-08-08T07:46:44.180Z"
     },
     "tags": {
-      "last_updated": "2025-08-08T07:51:55.155Z",
+      "last_updated": "2025-08-08T07:52:43.189Z",
       "record_count": 2
     }
   },
-  "last_update": "2025-08-08T07:51:55.155Z"
+  "last_update": "2025-08-08T07:52:43.189Z"
 }
