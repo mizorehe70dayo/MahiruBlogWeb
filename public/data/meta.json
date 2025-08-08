@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-08T02:10:42.767Z",
+  "last_updated": "2025-08-08T02:18:48.677Z",
   "stats": {
     "total_articles": 0,
     "published_articles": 0,
@@ -20,5 +20,6 @@
     "tags": {
       "last_updated": "2025-08-08T02:10:42.767Z"
     }
-  }
+  },
+  "categories_version": "2025-08-08T02:18:48.677Z"
 }
