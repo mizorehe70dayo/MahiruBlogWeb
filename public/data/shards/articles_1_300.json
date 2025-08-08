@@ -21,6 +21,25 @@
       "id": 1,
       "deleted_reason": "用户删除",
       "deleted_at": "2025-08-08T07:47:58.148Z"
+    },
+    {
+      "title": "测试删除",
+      "excerpt": "测试删除",
+      "content_file": "测试删除-1754639476104.md",
+      "cover_image_url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=400&h=300&fit=crop",
+      "slug": "测试删除",
+      "category_id": 1,
+      "tag_ids": [
+        2
+      ],
+      "status": "published",
+      "visibility": "private",
+      "word_count": 4,
+      "reading_time": 1,
+      "published_at": "2025-08-08T07:51:29.798Z",
+      "created_at": "2025-08-08T07:51:16.104Z",
+      "updated_at": "2025-08-08T07:51:29.798Z",
+      "id": 2
     }
   ]
 }
