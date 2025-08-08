@@ -1,0 +1,17 @@
+{
+  "last_update": "2025-08-08T01:57:19.271Z",
+  "tables": {
+    "articles": {
+      "last_updated": "2025-08-08T01:57:19.271Z",
+      "record_count": 0
+    },
+    "categories": {
+      "last_updated": "2025-08-08T01:57:19.271Z",
+      "record_count": 0
+    },
+    "tags": {
+      "last_updated": "2025-08-08T01:57:19.271Z",
+      "record_count": 0
+    }
+  }
+}
