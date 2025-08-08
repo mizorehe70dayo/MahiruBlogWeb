@@ -4,7 +4,7 @@
       "name": "t2",
       "article_count": 1,
       "created_at": "2025-08-08T04:45:28.622Z",
-      "updated_at": "2025-08-08T04:50:03.392Z",
+      "updated_at": "2025-08-08T04:51:29.367Z",
       "id": 3,
       "color": "hsl(60, 75%, 55%)"
     },
@@ -12,10 +12,10 @@
       "name": "t1",
       "article_count": 1,
       "created_at": "2025-08-08T03:18:08.684Z",
-      "updated_at": "2025-08-08T04:50:03.395Z",
+      "updated_at": "2025-08-08T04:51:29.369Z",
       "id": 1,
       "color": "hsl(0, 75%, 55%)"
     }
   ],
-  "last_updated": "2025-08-08T04:50:04.380Z"
+  "last_updated": "2025-08-08T04:51:30.378Z"
 }
