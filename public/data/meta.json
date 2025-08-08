@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-08-08T05:44:05.171Z",
+  "last_updated": "2025-08-08T05:44:43.592Z",
   "stats": {
-    "total_articles": 5,
+    "total_articles": 6,
     "published_articles": 3,
     "private_articles": 0,
-    "draft_articles": 2,
+    "draft_articles": 3,
     "deleted_articles": 0,
     "total_categories": 4,
     "total_tags": 3,
@@ -12,21 +12,21 @@
   },
   "tables": {
     "articles": {
-      "last_updated": "2025-08-08T05:21:08.566Z",
-      "record_count": 4
+      "last_updated": "2025-08-08T05:44:43.592Z",
+      "record_count": 6
     },
     "categories": {
-      "last_updated": "2025-08-08T05:21:08.566Z",
+      "last_updated": "2025-08-08T05:44:43.592Z",
       "record_count": 4
     },
     "tags": {
-      "last_updated": "2025-08-08T05:44:05.171Z",
-      "record_count": 2
+      "last_updated": "2025-08-08T05:44:43.592Z",
+      "record_count": 3
     }
   },
   "shards": {
     "articles_1_300.json": {
-      "last_updated": "2025-08-08T05:21:08.566Z"
+      "last_updated": "2025-08-08T05:44:43.592Z"
     }
   }
 }
