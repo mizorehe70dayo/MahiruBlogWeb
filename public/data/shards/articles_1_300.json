@@ -32,14 +32,16 @@
       "tag_ids": [
         2
       ],
-      "status": "published",
+      "status": "deleted",
       "visibility": "private",
       "word_count": 4,
       "reading_time": 1,
       "published_at": "2025-08-08T07:51:29.798Z",
       "created_at": "2025-08-08T07:51:16.104Z",
-      "updated_at": "2025-08-08T07:51:29.798Z",
-      "id": 2
+      "updated_at": "2025-08-08T07:51:53.955Z",
+      "id": 2,
+      "deleted_reason": "用户删除",
+      "deleted_at": "2025-08-08T07:51:53.953Z"
     }
   ]
 }
