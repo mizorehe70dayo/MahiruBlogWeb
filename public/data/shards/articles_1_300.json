@@ -1,0 +1,25 @@
+{
+  "articles": [
+    {
+      "title": "删除1",
+      "excerpt": "删除1",
+      "content_file": "删除1-1754638625653.md",
+      "cover_image_url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=400&h=300&fit=crop",
+      "slug": "删除1",
+      "category_id": 1,
+      "tag_ids": [
+        1
+      ],
+      "status": "deleted",
+      "visibility": "public",
+      "word_count": 3,
+      "reading_time": 1,
+      "published_at": "2025-08-08T07:37:05.653Z",
+      "created_at": "2025-08-08T07:37:05.653Z",
+      "updated_at": "2025-08-08T07:37:13.828Z",
+      "id": 4,
+      "deleted_reason": "用户删除",
+      "deleted_at": "2025-08-08T07:37:13.823Z"
+    }
+  ]
+}
