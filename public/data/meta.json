@@ -1,28 +1,32 @@
 {
-  "last_updated": "2025-08-08T06:48:05.084Z",
+  "last_updated": "2025-08-08T06:50:33.569Z",
   "stats": {
-    "total_articles": 0,
-    "published_articles": 0,
+    "total_articles": 1,
+    "published_articles": 1,
     "private_articles": 0,
     "draft_articles": 0,
     "deleted_articles": 0,
     "total_categories": 2,
     "total_tags": 2,
-    "total_shards": 0
+    "total_shards": 1
   },
   "tables": {
     "articles": {
-      "last_updated": "2025-08-08T06:48:05.084Z",
-      "record_count": 0
+      "last_updated": "2025-08-08T06:49:02.714Z",
+      "record_count": 1
     },
     "categories": {
       "last_updated": "2025-08-08T06:48:05.084Z",
       "record_count": 2
     },
     "tags": {
-      "last_updated": "2025-08-08T06:48:05.084Z",
+      "last_updated": "2025-08-08T06:50:33.569Z",
       "record_count": 2
     }
   },
-  "shards": {}
+  "shards": {
+    "articles_1_300.json": {
+      "last_updated": "2025-08-08T06:49:02.714Z"
+    }
+  }
 }
